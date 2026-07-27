@@ -1,0 +1,1 @@
+console.log("Climate Intelligence Website Loaded");
