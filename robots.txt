@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aakanksha-g005.github.io/climate-heatwave-monitoring/sitemap.xml
